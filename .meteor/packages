@@ -7,3 +7,5 @@ standard-app-packages
 insecure
 bootstrap
 jquery
+iron-router
+spin
